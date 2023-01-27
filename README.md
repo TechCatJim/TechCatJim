@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TechCatJim
 - 👀 I’m interested in software developement
-- 🌱 I’m currently learning ReactJS and its framework
+- 🌱 My passion driving me to become software engineer.
 - 📫 You can reach me via jimlearning228@gmail.com
 
 <!---
