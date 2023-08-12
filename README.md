@@ -1,7 +1,7 @@
 - 👋 Hi, I’m TechCatJim
-- 👀 I’m interested in software developement
-- 🌱 My passion driving me to become software engineer.
-- 📫 You can reach me via jimlearning228@gmail.com
+- 👀 Self-taught Software Engineer
+- 🌱 Passonate and Motivated! Desire to Grow!
+- 📫 Reach me via jimlearning228@gmail.com
 
 <!---
 TechCatJim/TechCatJim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
